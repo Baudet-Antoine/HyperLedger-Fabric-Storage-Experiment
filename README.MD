@@ -56,9 +56,9 @@ The goal of this project is to understand the different costs (measured in time)
 
 Once the installation is complete, you will able to use the test-network for this experiment.
 
-first step is to deploy the chaincodes for both organisations.
+The first step is to deploy the chaincodes (CC) for both organisations, the default hyperledger fabric network configuration has 2 nodes, 2 organizations and 1 orderer.
 
-To deploy a CC on a network, there is multiple steps:
+To deploy a CC on a network, it is required to execute the following steps:
 
 - Package **- Once**
 - Install **- For all peers**
